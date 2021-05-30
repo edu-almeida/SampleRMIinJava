@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RMISimplesInversãoDeCaracteres.iml" filepath="$PROJECT_DIR$/RMISimplesInversãoDeCaracteres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleRMIinJava.iml" filepath="$PROJECT_DIR$/SampleRMIinJava.iml" />
     </modules>
   </component>
 </project>
